@@ -1,0 +1,8 @@
+# Working directory
+WORKING_DIRECTORY = ../
+
+# Destination
+DESTINATION = ../README.md
+
+# Ignore these files
+FILES_TO_IGNORE = .git, .vscode, .gitignore, readme_util, README.md
