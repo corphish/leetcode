@@ -42,6 +42,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[NonDecreasingArray](arrays/NonDecreasingArray.java)|[Link](https://leetcode.com/problems/non-decreasing-array)|
 |[NumberOfBeams](arrays/NumberOfBeams.java)|[Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|
 |[NumberOfGoodPairs](arrays/NumberOfGoodPairs.java)|[Link](https://leetcode.com/problems/number-of-good-pairs)|
+|[NumbersWithSameConsecutiveDifferences](arrays/NumbersWithSameConsecutiveDifferences.java)|[Link](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|
 |[NumFriendRequests](arrays/NumFriendRequests.java)|[Link]()|
 |[PeakIndexInMountainArray](arrays/PeakIndexInMountainArray.java)|[Link](https://leetcode.com/problems/peak-index-in-a-mountain-array)|
 |[ProductOfArrayExceptSelf](arrays/ProductOfArrayExceptSelf.java)|[Link](https://leetcode.com/problems/product-of-array-except-self)|
@@ -57,6 +58,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ReorderedPowerOf2](arrays/ReorderedPowerOf2.java)|[Link](https://leetcode.com/problems/reordered-power-of-2)|
 |[ReshapeMatrix](arrays/ReshapeMatrix.java)|[Link]()|
 |[RingsAndRods](arrays/RingsAndRods.java)|[Link](https://leetcode.com/problems/rings-and-rods)|
+|[RLEIterator](arrays/RLEIterator.java)|[Link](https://leetcode.com/problems/rle-iterator)|
 |[RotateArray](arrays/RotateArray.java)|[Link]()|
 |[RotatedBinarySearch](arrays/RotatedBinarySearch.java)|[Link]()|
 |[RotateImage](arrays/RotateImage.java)|[Link](https://leetcode.com/problems/rotate-image/submissions/)|
@@ -67,6 +69,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ShiftGrid](arrays/ShiftGrid.java)|[Link]()|
 |[SortByParity](arrays/SortByParity.java)|[Link](https://leetcode.com/problems/sort-array-by-parity)|
 |[sorting](arrays/sorting)|[Link]()|
+|[SortMatrixDiagonally](arrays/SortMatrixDiagonally.java)|[Link](https://leetcode.com/problems/sort-the-matrix-diagonally/)|
 |[SpiralMatrix](arrays/SpiralMatrix.java)|[Link](https://leetcode.com/problems/spiral-matrix-ii)|
 |[StackWithIncrement](arrays/StackWithIncrement.java)|[Link](https://leetcode.com/problems/design-a-stack-with-increment-operation)|
 |[SumAfterEvenQueries](arrays/SumAfterEvenQueries.java)|[Link](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|
@@ -80,7 +83,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UniquePaths3](arrays/UniquePaths3.java)|[Link]()|
 |[UserActivityMinutes](arrays/UserActivityMinutes.java)|[Link](https://leetcode.com/problems/finding-the-users-active-minutes)|
 |[WaysToMakeFairArray](arrays/WaysToMakeFairArray.java)|[Link](https://leetcode.com/problems/ways-to-make-a-fair-array)|
-|Total|73|
+|Total|76|
 
 
 #### Backtracking
@@ -182,6 +185,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[IntersectionOfLinkedLists](linked_list/IntersectionOfLinkedLists.java)|[Link](https://leetcode.com/problems/intersection-of-two-linked-lists)|
 |[LinkedListCycle](linked_list/LinkedListCycle.java)|[Link](https://leetcode.com/problems/linked-list-cycle)|
 |[MergeNodesBetweenZeroes](linked_list/MergeNodesBetweenZeroes.java)|[Link](https://leetcode.com/problems/merge-nodes-in-between-zeros)|
+|[PalindromeLinkedList](linked_list/PalindromeLinkedList.java)|[Link](https://leetcode.com/problems/palindrome-linked-list/)|
 |[RemoveNthNodeFromEnd](linked_list/RemoveNthNodeFromEnd.java)|[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|
 |[ReverseList](linked_list/ReverseList.java)|[Link](https://leetcode.com/problems/reverse-linked-list/)|
 |[ReverseList2](linked_list/ReverseList2.java)|[Link]()|
@@ -189,7 +193,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[RotateRight](linked_list/RotateRight.java)|[Link](https://leetcode.com/problems/rotate-list)|
 |[SwapNodeInPairs](linked_list/SwapNodeInPairs.java)|[Link](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 |[SwapNodes](linked_list/SwapNodes.java)|[Link](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)|
-|Total|13|
+|Total|14|
 
 
 #### Logic
@@ -212,10 +216,13 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 #### Math
 |Solution|Leetcode Link|
 |--------|-----------|
+|[CheckPowersOf3](math/CheckPowersOf3.java)|[Link](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|
 |[CheckStraightLine](math/CheckStraightLine.java)|[Link](https://leetcode.com/problems/check-if-it-is-a-straight-line)|
 |[ClumsyFactorial](math/ClumsyFactorial.java)|[Link](https://leetcode.com/problems/clumsy-factorial)|
 |[Divide2Nums](math/Divide2Nums.java)|[Link]()|
+|[EqualRationalNumbers](math/EqualRationalNumbers.java)|[Link](https://leetcode.com/problems/equal-rational-numbers/)|
 |[InfinityArea](math/InfinityArea.java)|[Link]()|
+|[IsPowerOfThree](math/IsPowerOfThree.java)|[Link](https://leetcode.com/problems/power-of-three/)|
 |[MaxCoinsGot](math/MaxCoinsGot.java)|[Link](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|
 |[MinimumOperationsToMakeArrayEqual](math/MinimumOperationsToMakeArrayEqual.java)|[Link](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|
 |[NumberOfMatches](math/NumberOfMatches.java)|[Link](https://leetcode.com/problems/count-of-matches-in-tournament/)|
@@ -225,7 +232,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[SumOfFlooredPairs](math/SumOfFlooredPairs.java)|[Link](https://leetcode.com/problems/sum-of-floored-pairs)|
 |[SuperPalindrome](math/SuperPalindrome.java)|[Link]()|
 |[ValidSquare](math/ValidSquare.java)|[Link](https://leetcode.com/problems/valid-square)|
-|Total|13|
+|Total|16|
 
 
 #### Numbers
@@ -285,6 +292,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[CanBreakString](strings/CanBreakString.java)|[Link](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|
 |[ComplexNumbers](strings/ComplexNumbers.java)|[Link](https://leetcode.com/problems/complex-number-multiplication)|
 |[CustomSortString](strings/CustomSortString.java)|[Link](https://leetcode.com/problems/custom-sort-string)|
+|[DigitSumOfString](strings/DigitSumOfString.java)|[Link](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)|
 |[FindAndReplacePattern](strings/FindAndReplacePattern.java)|[Link](https://leetcode.com/problems/find-and-replace-pattern/)|
 |[FirstPalindromeInList](strings/FirstPalindromeInList.java)|[Link](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)|
 |[GroupAnagrams](strings/GroupAnagrams.java)|[Link]()|
@@ -321,7 +329,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UncommonWords](strings/UncommonWords.java)|[Link]()|
 |[ValidParenthesis](strings/ValidParenthesis.java)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |[WordSubsets](strings/WordSubsets.java)|[Link](https://leetcode.com/problems/word-subsets/)|
-|Total|42|
+|Total|43|
 
 
 #### Trees
@@ -332,6 +340,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[BinaryTreeFromDesc](trees/BinaryTreeFromDesc.java)|[Link](https://leetcode.com/problems/create-binary-tree-from-descriptions)|
 |[BTreeLevelOrder](trees/BTreeLevelOrder.java)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 |[BTreeLevelOrder2](trees/BTreeLevelOrder2.java)|[Link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|
+|[CountGoodNodes](trees/CountGoodNodes.java)|[Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|
 |[DeleteLeavesWithGivenValue](trees/DeleteLeavesWithGivenValue.java)|[Link](https://leetcode.com/problems/delete-leaves-with-a-given-value)|
 |[IncreasingOrderSearchTree](trees/IncreasingOrderSearchTree.java)|[Link](https://leetcode.com/problems/increasing-order-search-tree)|
 |[InvertBinaryTree](trees/InvertBinaryTree.java)|[Link](https://leetcode.com/problems/invert-binary-tree)|
@@ -350,7 +359,8 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[RootEqualsLEafSum](trees/RootEqualsLEafSum.java)|[Link](https://leetcode.com/problems/root-equals-sum-of-children)|
 |[SymmetricTree](trees/SymmetricTree.java)|[Link](https://leetcode.com/problems/symmetric-tree)|
 |[TargetCopy](trees/TargetCopy.java)|[Link](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|
-|Total|23|
+|[VerticalLevelTraversal](trees/VerticalLevelTraversal.java)|[Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|
+|Total|25|
 
 
 #### Trie
@@ -381,4 +391,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 262 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 272 leetcode problems. Let me know if any solution can be improved.
