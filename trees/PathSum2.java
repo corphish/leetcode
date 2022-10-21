@@ -64,4 +64,29 @@ class Solution {
         
         return res;
     }
+
+    // Alternate
+    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
+        List<List<Integer>> res = new ArrayList<>();
+        dfs(root, targetSum, new Stack<>(), res);
+        return res;
+    }
+    
+    void dfs(TreeNode root, int target, Stack<Integer> path, List<List<Integer>> store) {
+        if (root == null) {
+            return;
+        }
+        
+        if (root.left == null && root.right == null && target - root.val == 0) {
+            path.push(root.val);
+            store.add(new ArrayList<>(path));
+            path.pop();
+            return;
+        }
+        
+        path.push(root.val);
+        dfs(root.left, target - root.val, path, store);
+        dfs(root.right, target - root.val, path, store);
+        path.pop();
+    }
 }
