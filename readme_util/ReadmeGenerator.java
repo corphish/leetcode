@@ -32,7 +32,7 @@ public class ReadmeGenerator {
                     .append(solution.getName())
                     .append("](")
                     .append(solution.getRepoLink()).append(")|")
-                    .append(solution.getLink() == null ? "-" : "[Link](" + solution.getLink()).append(")|\n");
+                    .append(solution.getLink() == null || solution.getLink().isEmpty() ? "-" : "[Link](" + solution.getLink() + ")").append("|\n");
             }
 
             sb.append("|Total|").append(solutionGroup.getSolutions().size()).append("|\n\n\n");
