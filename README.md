@@ -21,12 +21,16 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[CanJump](arrays/CanJump.java)|[Link](https://leetcode.com/problems/jump-game/)|
 |[CanPlaceFlowers](arrays/CanPlaceFlowers.java)|[Link](https://leetcode.com/problems/can-place-flowers/)|
 |[CapacityToShipPackageWithinDDays](arrays/CapacityToShipPackageWithinDDays.java)|[Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|
+|[CarPooling](arrays/CarPooling.java)|[Link](https://leetcode.com/problems/car-pooling/)|
 |[CombinationSum](arrays/CombinationSum.java)|[Link](https://leetcode.com/problems/combination-sum)|
+|[CombinationSum3](arrays/CombinationSum3.java)|[Link](https://leetcode.com/problems/combination-sum-iii)|
 |[ContainsDuplicates](arrays/ContainsDuplicates.java)|-|
 |[ContainsNearbyDuplicates](arrays/ContainsNearbyDuplicates.java)|[Link](https://leetcode.com/problems/contains-duplicate-ii)|
 |[ContinuousSubarraySum](arrays/ContinuousSubarraySum.java)|[Link](https://leetcode.com/problems/continuous-subarray-sum)|
 |[CorporateFlightBookings](arrays/CorporateFlightBookings.java)|[Link](https://leetcode.com/problems/corporate-flight-bookings)|
+|[CountNumberOfFairPairs](arrays/CountNumberOfFairPairs.java)|[Link](https://leetcode.com/problems/count-the-number-of-fair-pairs)|
 |[DivideArrayInSetsOfKConsecturiveNumber](arrays/DivideArrayInSetsOfKConsecturiveNumber.java)|[Link](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|
+|[DividePlayersIntoTeamsOfEqualSkill](arrays/DividePlayersIntoTeamsOfEqualSkill.java)|[Link](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill)|
 |[EarliestPossibleDayOfFullBloom](arrays/EarliestPossibleDayOfFullBloom.java)|[Link](https://leetcode.com/problems/earliest-possible-day-of-full-bloom)|
 |[FindAllDuplicatesInArray](arrays/FindAllDuplicatesInArray.java)|[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array)|
 |[FindDisappearedNumbers](arrays/FindDisappearedNumbers.java)|[Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|
@@ -46,20 +50,24 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[IntersectionOf2Arrays2](arrays/IntersectionOf2Arrays2.java)|[Link](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
 |[JumpGame2](arrays/JumpGame2.java)|[Link](https://leetcode.com/problems/jump-game-ii/)|
 |[KDivisibleElementsInSubarrays](arrays/KDivisibleElementsInSubarrays.java)|[Link](https://leetcode.com/problems/k-divisible-elements-subarrays)|
+|[KidsWithTheGreatestNumberOfCandies](arrays/KidsWithTheGreatestNumberOfCandies.java)|[Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|
 |[KokoEatingBananas](arrays/KokoEatingBananas.java)|[Link](https://leetcode.com/problems/koko-eating-bananas/)|
 |[KthElementInSortedMatrix](arrays/KthElementInSortedMatrix.java)|-|
 |[KthSmallestPrimeFraction](arrays/KthSmallestPrimeFraction.java)|[Link](https://leetcode.com/problems/k-th-smallest-prime-fraction)|
 |[KthSmallestTrimmedNumber](arrays/KthSmallestTrimmedNumber.java)|[Link](https://leetcode.com/problems/query-kth-smallest-trimmed-number)|
 |[LargestNumber](arrays/LargestNumber.java)|[Link](https://leetcode.com/problems/largest-number)|
+|[LargestValuesFromLabels](arrays/LargestValuesFromLabels.java)|[Link](https://leetcode.com/problems/largest-values-from-labels/)|
 |[LeastNumberOfUniqueIntegersAfterKRemovals](arrays/LeastNumberOfUniqueIntegersAfterKRemovals.java)|[Link](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)|
 |[LemonadeChange](arrays/LemonadeChange.java)|[Link](https://leetcode.com/problems/lemonade-change)|
 |[LongestSubsequenceWithLimitedSum](arrays/LongestSubsequenceWithLimitedSum.java)|[Link](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|
+|[MaxConsecutiveOnes3](arrays/MaxConsecutiveOnes3.java)|[Link](https://leetcode.com/problems/max-consecutive-ones-iii)|
 |[MaximumBagsWithFullCapacityRocks](arrays/MaximumBagsWithFullCapacityRocks.java)|[Link](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)|
 |[MaximumIcecreamBars](arrays/MaximumIcecreamBars.java)|[Link](https://leetcode.com/problems/maximum-ice-cream-bars)|
 |[MaximumLengthOfRepeatedSubarray](arrays/MaximumLengthOfRepeatedSubarray.java)|[Link](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|
 |[MaximumProduct](arrays/MaximumProduct.java)|-|
 |[MaximumSwaps](arrays/MaximumSwaps.java)|[Link](https://leetcode.com/problems/maximum-swap)|
 |[MaxIncreaseToKeepCitySkylineSame](arrays/MaxIncreaseToKeepCitySkylineSame.java)|[Link](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|
+|[MaxNumberOfKSumPairs](arrays/MaxNumberOfKSumPairs.java)|[Link](https://leetcode.com/problems/max-number-of-k-sum-pairs)|
 |[MergeSortedArrays](arrays/MergeSortedArrays.java)|-|
 |[MergeTriplets](arrays/MergeTriplets.java)|[Link](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)|
 |[MinCostToMoveChips](arrays/MinCostToMoveChips.java)|-|
@@ -87,6 +95,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[NumberOfZeroFilledSubArrays](arrays/NumberOfZeroFilledSubArrays.java)|[Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|
 |[NumbersWithSameConsecutiveDifferences](arrays/NumbersWithSameConsecutiveDifferences.java)|[Link](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|
 |[NumFriendRequests](arrays/NumFriendRequests.java)|-|
+|[PartitionArraySuchThatMaximumDifferenceIsK](arrays/PartitionArraySuchThatMaximumDifferenceIsK.java)|[Link](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/)|
 |[PeakIndexInMountainArray](arrays/PeakIndexInMountainArray.java)|[Link](https://leetcode.com/problems/peak-index-in-a-mountain-array)|
 |[ProductOfArrayExceptSelf](arrays/ProductOfArrayExceptSelf.java)|[Link](https://leetcode.com/problems/product-of-array-except-self)|
 |[QueriesOnPermutationWithKey](arrays/QueriesOnPermutationWithKey.java)|[Link](https://leetcode.com/problems/queries-on-a-permutation-with-key)|
@@ -101,12 +110,14 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[RemoveCoveredIntervals](arrays/RemoveCoveredIntervals.java)|[Link](https://leetcode.com/problems/remove-covered-intervals/)|
 |[RemoveDuplicatesFromSortedArray](arrays/RemoveDuplicatesFromSortedArray.java)|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
 |[ReorderedPowerOf2](arrays/ReorderedPowerOf2.java)|[Link](https://leetcode.com/problems/reordered-power-of-2)|
+|[ReplaceElementsInArray](arrays/ReplaceElementsInArray.java)|[Link](https://leetcode.com/problems/replace-elements-in-an-array)|
 |[ReshapeMatrix](arrays/ReshapeMatrix.java)|-|
 |[RingsAndRods](arrays/RingsAndRods.java)|[Link](https://leetcode.com/problems/rings-and-rods)|
 |[RLEIterator](arrays/RLEIterator.java)|[Link](https://leetcode.com/problems/rle-iterator)|
 |[RotateArray](arrays/RotateArray.java)|-|
 |[RotatedBinarySearch](arrays/RotatedBinarySearch.java)|-|
 |[RotateImage](arrays/RotateImage.java)|[Link](https://leetcode.com/problems/rotate-image/submissions/)|
+|[ScoreOfAllPrefixesOfAnArray](arrays/ScoreOfAllPrefixesOfAnArray.java)|[Link](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/)|
 |[Search2DMatrix](arrays/Search2DMatrix.java)|[Link](https://leetcode.com/problems/search-a-2d-matrix)|
 |[Search2DMatrix2](arrays/Search2DMatrix2.java)|[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)|
 |[SearchInsertPosition](arrays/SearchInsertPosition.java)|[Link](https://leetcode.com/problems/search-insert-position/)|
@@ -115,6 +126,8 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[SetMismatch](arrays/SetMismatch.java)|[Link](https://leetcode.com/problems/set-mismatch)|
 |[ShiftGrid](arrays/ShiftGrid.java)|-|
 |[ShuffleTheArray](arrays/ShuffleTheArray.java)|[Link](https://leetcode.com/problems/shuffle-the-array)|
+|[SingleNumber2](arrays/SingleNumber2.java)|[Link](https://leetcode.com/problems/single-number-ii/)|
+|[SingleNumber3](arrays/SingleNumber3.java)|[Link](https://leetcode.com/problems/single-number-iii/)|
 |[SmallestInfiniteSet](arrays/SmallestInfiniteSet.java)|[Link](https://leetcode.com/problems/smallest-number-in-infinite-set)|
 |[SortByParity](arrays/SortByParity.java)|[Link](https://leetcode.com/problems/sort-array-by-parity)|
 |[sorting](arrays/sorting)|-|
@@ -124,6 +137,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[SpiralMatrix](arrays/SpiralMatrix.java)|[Link](https://leetcode.com/problems/spiral-matrix-ii)|
 |[StackWithIncrement](arrays/StackWithIncrement.java)|[Link](https://leetcode.com/problems/design-a-stack-with-increment-operation)|
 |[SubarraySumDivisibleByK](arrays/SubarraySumDivisibleByK.java)|[Link](https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/881384455/)|
+|[SubArraySumEqualsK](arrays/SubArraySumEqualsK.java)|[Link](https://leetcode.com/problems/subarray-sum-equals-k)|
 |[SuccessfulPairsOfSpellsAndPotions](arrays/SuccessfulPairsOfSpellsAndPotions.java)|[Link](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)|
 |[SumAfterEvenQueries](arrays/SumAfterEvenQueries.java)|[Link](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|
 |[SummaryRanges](arrays/SummaryRanges.java)|[Link](https://leetcode.com/problems/summary-ranges)|
@@ -137,7 +151,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UniquePaths3](arrays/UniquePaths3.java)|-|
 |[UserActivityMinutes](arrays/UserActivityMinutes.java)|[Link](https://leetcode.com/problems/finding-the-users-active-minutes)|
 |[WaysToMakeFairArray](arrays/WaysToMakeFairArray.java)|[Link](https://leetcode.com/problems/ways-to-make-a-fair-array)|
-|Total|130|
+|Total|144|
 
 
 #### Backtracking
@@ -171,7 +185,8 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |Solution|Leetcode Link|
 |--------|-----------|
 |[DesignFacebook](design/DesignFacebook.java)|-|
-|Total|1|
+|[DesignMemoryAllocator](design/DesignMemoryAllocator.java)|[Link](https://leetcode.com/problems/design-memory-allocator)|
+|Total|2|
 
 
 #### Dp
@@ -193,19 +208,26 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[JumpGame](dp/JumpGame.java)|-|
 |[JumpGame2](dp/JumpGame2.java)|-|
 |[LongestIncreasingSubsequence](dp/LongestIncreasingSubsequence.java)|[Link](https://leetcode.com/problems/longest-increasing-subsequence)|
+|[LongestPalindromicSubsequence](dp/LongestPalindromicSubsequence.java)|[Link](https://leetcode.com/problems/longest-palindromic-subsequence)|
 |[MaximumProductSubarray](dp/MaximumProductSubarray.java)|-|
 |[MaximumSumCircularSubArray](dp/MaximumSumCircularSubArray.java)|[Link](https://leetcode.com/problems/maximum-sum-circular-subarray/)|
+|[MaximumValueOfKCoinsFromPiles](dp/MaximumValueOfKCoinsFromPiles.java)|[Link](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles)|
 |[MinCostClimbingStairs](dp/MinCostClimbingStairs.java)|[Link](https://leetcode.com/problems/min-cost-climbing-stairs)|
 |[MinimumCostForTickets](dp/MinimumCostForTickets.java)|[Link](https://leetcode.com/problems/minimum-cost-for-tickets/)|
 |[MinimumFallingPathSum](dp/MinimumFallingPathSum.java)|[Link](https://leetcode.com/problems/minimum-falling-path-sum)|
+|[MinimumInsertionStepsToMakeStringPalindrome](dp/MinimumInsertionStepsToMakeStringPalindrome.java)|[Link](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|
 |[MinPathSum](dp/MinPathSum.java)|[Link](https://leetcode.com/problems/minimum-path-sum/)|
 |[MinSteps](dp/MinSteps.java)|[Link](https://leetcode.com/problems/2-keys-keyboard/)|
 |[NumberOfArithmeticSlices](dp/NumberOfArithmeticSlices.java)|[Link](https://leetcode.com/problems/arithmetic-slices/)|
+|[NumberOfWaysToFormATargetStringGivenADictionary](dp/NumberOfWaysToFormATargetStringGivenADictionary.java)|[Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)|
 |[NumOfTeams](dp/NumOfTeams.java)|[Link](https://leetcode.com/problems/count-number-of-teams)|
+|[ProfitableSchemes](dp/ProfitableSchemes.java)|[Link](https://leetcode.com/problems/profitable-schemes)|
+|[RestoreTheArray](dp/RestoreTheArray.java)|[Link](https://leetcode.com/problems/restore-the-array)|
+|[SolvingQuestionsWithBrainPower](dp/SolvingQuestionsWithBrainPower.java)|[Link](https://leetcode.com/problems/solving-questions-with-brainpower/)|
 |[UniquePaths2](dp/UniquePaths2.java)|[Link](https://leetcode.com/problems/unique-paths-ii)|
 |[WordBreak](dp/WordBreak.java)|-|
 |[WordBreak2](dp/WordBreak2.java)|[Link](https://leetcode.com/problems/word-break-ii)|
-|Total|28|
+|Total|35|
 
 
 #### Graph
@@ -401,7 +423,8 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[DailyTemperatures](stack/DailyTemperatures.java)|[Link](https://leetcode.com/problems/daily-temperatures)|
 |[OnlineStockSpan](stack/OnlineStockSpan.java)|[Link](https://leetcode.com/problems/online-stock-span)|
 |[StackUsingQueues](stack/StackUsingQueues.java)|[Link](https://leetcode.com/problems/implement-stack-using-queues)|
-|Total|4|
+|[ValidateStackSequences](stack/ValidateStackSequences.java)|[Link](https://leetcode.com/problems/validate-stack-sequences/)|
+|Total|5|
 
 
 #### Strings
@@ -441,8 +464,10 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[LongestWordInDictionary](strings/LongestWordInDictionary.java)|[Link](https://leetcode.com/problems/longest-word-in-dictionary)|
 |[MakeTheStringGreat](strings/MakeTheStringGreat.java)|-|
 |[MaximumProductOfWordLength](strings/MaximumProductOfWordLength.java)|[Link](https://leetcode.com/problems/maximum-product-of-word-lengths)|
+|[MergeStringsAlternatively](strings/MergeStringsAlternatively.java)|[Link](https://leetcode.com/problems/merge-strings-alternately)|
 |[MinDeciBinaryPartitions](strings/MinDeciBinaryPartitions.java)|[Link](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)|
 |[MinimumMovesToConvertString](strings/MinimumMovesToConvertString.java)|[Link](https://leetcode.com/problems/minimum-moves-to-convert-string)|
+|[MinimumNumberOfMovesToMakeStringPalindrome](strings/MinimumNumberOfMovesToMakeStringPalindrome.java)|[Link](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome)|
 |[MinRemoveToMakeValidParenthesis](strings/MinRemoveToMakeValidParenthesis.java)|[Link](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|
 |[MinStepsToMakeStringsAnagram](strings/MinStepsToMakeStringsAnagram.java)|[Link](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|
 |[MinStepsToMakeStringsAnagram2](strings/MinStepsToMakeStringsAnagram2.java)|[Link](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)|
@@ -484,7 +509,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[VerifyingAlienDictionary](strings/VerifyingAlienDictionary.java)|[Link](https://leetcode.com/problems/verifying-an-alien-dictionary)|
 |[WordPattern](strings/WordPattern.java)|[Link](https://leetcode.com/problems/word-pattern/)|
 |[WordSubsets](strings/WordSubsets.java)|[Link](https://leetcode.com/problems/word-subsets/)|
-|Total|77|
+|Total|79|
 
 
 #### Trees
@@ -508,11 +533,13 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[KthLargestInStream](trees/KthLargestInStream.java)|[Link](https://leetcode.com/problems/kth-largest-element-in-a-stream)|
 |[KthSmallestElementInBST](trees/KthSmallestElementInBST.java)|[Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|
 |[LeafSimilar](trees/LeafSimilar.java)|[Link](https://leetcode.com/problems/leaf-similar-trees/)|
+|[LongestZigzagInBinaryTree](trees/LongestZigzagInBinaryTree.java)|[Link](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)|
 |[LowestCommonAncestor](trees/LowestCommonAncestor.java)|[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|
 |[MaximumBinaryTree](trees/MaximumBinaryTree.java)|[Link](https://leetcode.com/problems/maximum-binary-tree)|
 |[MaximumDepthOfBinaryTree](trees/MaximumDepthOfBinaryTree.java)|[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|
 |[MaximumDifferenceBetweenNodeAndAncestors](trees/MaximumDifferenceBetweenNodeAndAncestors.java)|[Link](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|
 |[MaximumProductOfSplittedBinaryTree](trees/MaximumProductOfSplittedBinaryTree.java)|[Link](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|
+|[MaximumWidthOfBinaryTree](trees/MaximumWidthOfBinaryTree.java)|[Link](https://leetcode.com/problems/maximum-width-of-binary-tree)|
 |[MinDepth](trees/MinDepth.java)|[Link](https://leetcode.com/problems/minimum-depth-of-binary-tree)|
 |[MinimumDistanceBetweenBSTNodes](trees/MinimumDistanceBetweenBSTNodes.java)|[Link](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|
 |[NestedIterator](trees/NestedIterator.java)|[Link](https://leetcode.com/problems/flatten-nested-list-iterator)|
@@ -534,7 +561,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[Tree2Str](trees/Tree2Str.java)|[Link](https://leetcode.com/problems/construct-string-from-binary-tree)|
 |[VerticalLevelTraversal](trees/VerticalLevelTraversal.java)|[Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|
 |[ZigagLevelOrderTraversal](trees/ZigagLevelOrderTraversal.java)|[Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|
-|Total|44|
+|Total|46|
 
 
 #### Trie
@@ -567,4 +594,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 442 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 469 leetcode problems. Let me know if any solution can be improved.
