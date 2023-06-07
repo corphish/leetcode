@@ -1,43 +1,57 @@
-// https://leetcode.com/problems/spiral-matrix-ii
 class Solution {
-    public int[][] generateMatrix(int n) {
-        int[][] res = new int[n][n];
-        int dir = 0;
-        int k = 1, i = 0, j = 0;
-        
-        for (; k <= n * n; k++) {
-            res[i][j] = k;
-            if (dir == 0) {
-                if (j < n - 1 && res[i][j + 1] == 0) {
-                    j++;
-                } else {
-                    dir++;
-                    i++;
+    public List<Integer> spiralOrder(int[][] matrix) {
+        int n = matrix.length, m = matrix[0].length;
+        int t = 1, b = 0, l = 0, r = 0;
+        int x = 0, y = 0, lx = -1, ly = -1, d = 0; // 0 -right, 1 - down, 2 - left, 3 - up
+
+        List<Integer> res = new ArrayList<>();
+
+        for (int i = 0; i < m * n; ) {
+            if (x != lx || y != ly) {
+                res.add(matrix[x][y]);      
+                i++;
+            }
+
+            lx = x;
+            ly = y;            
+
+            if (d == 0) {
+                y++;
+                if (y >= m - r) {
+                    d = 1;
+                    r += 1;
+                    y -= 1;
                 }
-            } else if (dir == 1) {
-                if (i < n - 1 && res[i + 1][j] == 0) {
-                    i++;
-                } else {
-                    dir++;
-                    j--;
+            }
+
+            if (d == 1) {
+                x++;
+                if (x >= n - b) {
+                    d = 2;
+                    b += 1;
+                    x -= 1;
                 }
-            } else if (dir == 2) {
-                if (j > 0 && res[i][j - 1] == 0) {
-                    j--;
-                } else {
-                    dir++;
-                    i--;
+            }
+
+            if (d == 2) {
+                y--;
+                if (y < l) {
+                    d = 3;
+                    l += 1;
+                    y += 1;
                 }
-            } else {
-                if (i > 0 && res[i - 1][j] == 0) {
-                    i--;
-                } else {
-                    dir = 0;
-                    j++;
+            }
+
+            if (d == 3) {
+                x--;
+                if (x < t) {
+                    d = 0;
+                    t += 1;
+                    x += 1;
                 }
             }
         }
-        
+
         return res;
     }
 }

@@ -7,7 +7,6 @@ class Solution {
             for (int j = 0; j < bombs.length; j++) {
                 if (i != j && isWithinRange(bombs[i], bombs[j])) {
                     adj.computeIfAbsent(i, k -> new ArrayList<>()).add(j);
-                    //adj.computeIfAbsent(j, k -> new ArrayList<>()).add(i);
                 }
             }
         }

@@ -1,4 +1,4 @@
-// https://leetcode.com/explore/learn/card/graph/618/disjoint-set/3845/
+// https://leetcode.com/problems/number-of-provinces
 class Provinces {
     public int findCircleNum(int[][] isConnected) {
         int len = isConnected.length;
