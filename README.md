@@ -43,6 +43,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[FindAllDuplicatesInArray](arrays/FindAllDuplicatesInArray.java)|[Link](https://leetcode.com/problems/find-all-duplicates-in-an-array)|
 |[FindDisappearedNumbers](arrays/FindDisappearedNumbers.java)|[Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|
 |[FindEvenNumber](arrays/FindEvenNumber.java)|[Link](https://leetcode.com/problems/finding-3-digit-even-numbers)|
+|[FindKPairsWithSmallestSum](arrays/FindKPairsWithSmallestSum.java)|[Link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)|
 |[FindOriginalFromDoubledArray](arrays/FindOriginalFromDoubledArray.java)|[Link](https://leetcode.com/problems/find-original-array-from-doubled-array)|
 |[FindPeakElement](arrays/FindPeakElement.java)|[Link](https://leetcode.com/problems/find-peak-element)|
 |[FindPlayersWithZeroOrOneLosses](arrays/FindPlayersWithZeroOrOneLosses.java)|[Link](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)|
@@ -90,6 +91,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[MinimizeMaximumOfArray](arrays/MinimizeMaximumOfArray.java)|[Link](https://leetcode.com/problems/minimize-maximum-of-array)|
 |[MinimizeMaximumPairSumInArray](arrays/MinimizeMaximumPairSumInArray.java)|[Link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array)|
 |[MinimumAverageDifference](arrays/MinimumAverageDifference.java)|[Link](https://leetcode.com/problems/minimum-average-difference)|
+|[MinimumCostToMakeArrayEqual](arrays/MinimumCostToMakeArrayEqual.java)|[Link](https://leetcode.com/problems/minimum-cost-to-make-array-equal)|
 |[MinimumInRotatedSortedArray](arrays/MinimumInRotatedSortedArray.java)|[Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|
 |[MinimumOperationsToMakeArrayEqual](arrays/MinimumOperationsToMakeArrayEqual.java)|[Link](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|
 |[MinimumOperationsToReInitPermutation](arrays/MinimumOperationsToReInitPermutation.java)|[Link](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|
@@ -175,7 +177,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UserActivityMinutes](arrays/UserActivityMinutes.java)|[Link](https://leetcode.com/problems/finding-the-users-active-minutes)|
 |[WaysToMakeFairArray](arrays/WaysToMakeFairArray.java)|[Link](https://leetcode.com/problems/ways-to-make-a-fair-array)|
 |[WinnerOfAnArrayGame](arrays/WinnerOfAnArrayGame.java)|[Link](https://leetcode.com/problems/find-the-winner-of-an-array-game)|
-|Total|168|
+|Total|170|
 
 
 #### Backtracking
@@ -187,11 +189,12 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[LetterCombinationOfPhoneNumber](backtracking/LetterCombinationOfPhoneNumber.java)|[Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|
 |[MaximizeScoreAfterNOperations](backtracking/MaximizeScoreAfterNOperations.java)|[Link](https://leetcode.com/problems/maximize-score-after-n-operations)|
 |[MaximumCompatibilityScoreSum](backtracking/MaximumCompatibilityScoreSum.java)|[Link](https://leetcode.com/problems/maximum-compatibility-score-sum)|
+|[MaximumNumberOfAchievableTransferRequests](backtracking/MaximumNumberOfAchievableTransferRequests.java)|[Link](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests)|
 |[MaximumScoreWordsFormedByLetters](backtracking/MaximumScoreWordsFormedByLetters.java)|[Link](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|
 |[NQueens](backtracking/NQueens.java)|[Link](https://leetcode.com/problems/n-queens)|
 |[NQueens2](backtracking/NQueens2.java)|[Link](https://leetcode.com/problems/n-queens-ii)|
 |[Subsets2](backtracking/Subsets2.java)|[Link](https://leetcode.com/problems/subsets-ii)|
-|Total|10|
+|Total|11|
 
 
 #### Bit Manipulation
@@ -230,11 +233,13 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |--------|-----------|
 |[AllPossibleFBT](dp/AllPossibleFBT.java)|-|
 |[BestTimeToBuyAndSellStockWithCooldown](dp/BestTimeToBuyAndSellStockWithCooldown.java)|[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|
+|[BestTimeToBuyAndSellStockWIthTransactionFee](dp/BestTimeToBuyAndSellStockWIthTransactionFee.java)|[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|
 |[ClimbingStairs](dp/ClimbingStairs.java)|[Link](https://leetcode.com/problems/climbing-stairs)|
 |[CoinChange](dp/CoinChange.java)|-|
 |[CoinChange2](dp/CoinChange2.java)|-|
 |[CombinationSum4](dp/CombinationSum4.java)|[Link](https://leetcode.com/problems/combination-sum-iv)|
 |[CounSubstringsThatDifferByOne](dp/CounSubstringsThatDifferByOne.java)|[Link](https://leetcode.com/problems/count-substrings-that-differ-by-one-character)|
+|[CountAllPossibleRoutes](dp/CountAllPossibleRoutes.java)|[Link](https://leetcode.com/problems/count-all-possible-routes)|
 |[CountingBits](dp/CountingBits.java)|-|
 |[CountVowelStrings](dp/CountVowelStrings.java)|-|
 |[CountWaysToBuildGoodStrings](dp/CountWaysToBuildGoodStrings.java)|[Link](https://leetcode.com/problems/count-ways-to-build-good-strings)|
@@ -269,7 +274,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UniquePaths2](dp/UniquePaths2.java)|[Link](https://leetcode.com/problems/unique-paths-ii)|
 |[WordBreak](dp/WordBreak.java)|-|
 |[WordBreak2](dp/WordBreak2.java)|[Link](https://leetcode.com/problems/word-break-ii)|
-|Total|41|
+|Total|43|
 
 
 #### Graph
@@ -301,6 +306,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[MinimumNoVerticesToReachAllNodes](graph/MinimumNoVerticesToReachAllNodes.java)|[Link](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|
 |[MinimumTimeToCollectAllApples](graph/MinimumTimeToCollectAllApples.java)|[Link](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|
 |[NumberOfNodesInSubtreeWithSameLabels](graph/NumberOfNodesInSubtreeWithSameLabels.java)|[Link](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|
+|[PathWithMaximumProbability](graph/PathWithMaximumProbability.java)|[Link](https://leetcode.com/problems/path-with-maximum-probability)|
 |[RedundantConnections](graph/RedundantConnections.java)|[Link](https://leetcode.com/problems/redundant-connection)|
 |[RegionsCutBySlashes](graph/RegionsCutBySlashes.java)|[Link](https://leetcode.com/problems/regions-cut-by-slashes)|
 |[ReorderRoutes](graph/ReorderRoutes.java)|[Link](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|
@@ -308,7 +314,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ShortestBridge](graph/ShortestBridge.java)|[Link](https://leetcode.com/problems/shortest-bridge)|
 |[ShortestPathInABinaryGraph](graph/ShortestPathInABinaryGraph.java)|[Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|
 |[TimeNeededToInform](graph/TimeNeededToInform.java)|[Link](https://leetcode.com/problems/time-needed-to-inform-all-employees)|
-|Total|33|
+|Total|34|
 
 
 #### Heap
@@ -329,7 +335,8 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[SlidingWindowMaximum](heap/SlidingWindowMaximum.java)|[Link](https://leetcode.com/problems/sliding-window-maximum)|
 |[StoneGame6](heap/StoneGame6.java)|[Link](https://leetcode.com/problems/stone-game-vi)|
 |[TaskScheduler](heap/TaskScheduler.java)|-|
-|Total|15|
+|[TotalCostToHireKWorkers](heap/TotalCostToHireKWorkers.java)|[Link](https://leetcode.com/problems/total-cost-to-hire-k-workers)|
+|Total|16|
 
 
 #### Linked List
@@ -665,4 +672,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 540 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 547 leetcode problems. Let me know if any solution can be improved.
