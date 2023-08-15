@@ -362,6 +362,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[MergeNodesBetweenZeroes](linked_list/MergeNodesBetweenZeroes.java)|[Link](https://leetcode.com/problems/merge-nodes-in-between-zeros)|
 |[NextGreaterNodeInLinkedList](linked_list/NextGreaterNodeInLinkedList.java)|[Link](https://leetcode.com/problems/next-greater-node-in-linked-list)|
 |[PalindromeLinkedList](linked_list/PalindromeLinkedList.java)|[Link](https://leetcode.com/problems/palindrome-linked-list/)|
+|[PartitionList](linked_list/PartitionList.java)|[Link](https://leetcode.com/problems/partition-list)|
 |[RemoveNthNodeFromEnd](linked_list/RemoveNthNodeFromEnd.java)|[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|
 |[ReorderList](linked_list/ReorderList.java)|[Link](https://leetcode.com/problems/reorder-list/)|
 |[ReverseList](linked_list/ReverseList.java)|[Link](https://leetcode.com/problems/reverse-linked-list/)|
@@ -370,7 +371,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[RotateRight](linked_list/RotateRight.java)|[Link](https://leetcode.com/problems/rotate-list)|
 |[SwapNodeInPairs](linked_list/SwapNodeInPairs.java)|[Link](https://leetcode.com/problems/swap-nodes-in-pairs/)|
 |[SwapNodes](linked_list/SwapNodes.java)|[Link](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)|
-|Total|19|
+|Total|20|
 
 
 #### Logic
@@ -595,9 +596,10 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UncommonWords](strings/UncommonWords.java)|-|
 |[ValidParenthesis](strings/ValidParenthesis.java)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |[VerifyingAlienDictionary](strings/VerifyingAlienDictionary.java)|[Link](https://leetcode.com/problems/verifying-an-alien-dictionary)|
+|[WordBreak](strings/WordBreak.java)|[Link](https://leetcode.com/problems/word-break)|
 |[WordPattern](strings/WordPattern.java)|[Link](https://leetcode.com/problems/word-pattern/)|
 |[WordSubsets](strings/WordSubsets.java)|[Link](https://leetcode.com/problems/word-subsets/)|
-|Total|86|
+|Total|87|
 
 
 #### Trees
@@ -693,4 +695,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 568 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 570 leetcode problems. Let me know if any solution can be improved.
