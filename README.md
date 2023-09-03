@@ -260,6 +260,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[CountVowelStrings](dp/CountVowelStrings.java)|-|
 |[CountWaysToBuildGoodStrings](dp/CountWaysToBuildGoodStrings.java)|[Link](https://leetcode.com/problems/count-ways-to-build-good-strings)|
 |[DecodeWays](dp/DecodeWays.java)|[Link](https://leetcode.com/problems/decode-ways)|
+|[ExtraCharactersInAString](dp/ExtraCharactersInAString.java)|[Link](https://leetcode.com/problems/extra-characters-in-a-string)|
 |[FindMaxInGeneratedArray](dp/FindMaxInGeneratedArray.java)|-|
 |[FrogJump](dp/FrogJump.java)|[Link](https://leetcode.com/problems/frog-jump)|
 |[HouseRobber](dp/HouseRobber.java)|[Link](https://leetcode.com/problems/house-robber)|
@@ -269,6 +270,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[InterleavingString](dp/InterleavingString.java)|[Link](https://leetcode.com/problems/interleaving-string)|
 |[JumpGame](dp/JumpGame.java)|-|
 |[JumpGame2](dp/JumpGame2.java)|-|
+|[LargestSumOfAverages](dp/LargestSumOfAverages.java)|[Link](https://leetcode.com/problems/largest-sum-of-averages)|
 |[LongestIncreasingSubsequence](dp/LongestIncreasingSubsequence.java)|[Link](https://leetcode.com/problems/longest-increasing-subsequence)|
 |[LongestPalindromicSubsequence](dp/LongestPalindromicSubsequence.java)|[Link](https://leetcode.com/problems/longest-palindromic-subsequence)|
 |[MaximumProductSubarray](dp/MaximumProductSubarray.java)|-|
@@ -286,6 +288,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[NumberOfWaysToFormATargetStringGivenADictionary](dp/NumberOfWaysToFormATargetStringGivenADictionary.java)|[Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)|
 |[NumOfTeams](dp/NumOfTeams.java)|[Link](https://leetcode.com/problems/count-number-of-teams)|
 |[PartitionEqualSubsetSum](dp/PartitionEqualSubsetSum.java)|[Link](https://leetcode.com/problems/partition-equal-subset-sum)|
+|[PathsInMatrixWhoseSumIsDivisibleByK](dp/PathsInMatrixWhoseSumIsDivisibleByK.java)|[Link](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)|
 |[ProfitableSchemes](dp/ProfitableSchemes.java)|[Link](https://leetcode.com/problems/profitable-schemes)|
 |[RestoreTheArray](dp/RestoreTheArray.java)|[Link](https://leetcode.com/problems/restore-the-array)|
 |[SolvingQuestionsWithBrainPower](dp/SolvingQuestionsWithBrainPower.java)|[Link](https://leetcode.com/problems/solving-questions-with-brainpower/)|
@@ -295,9 +298,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[Triangle](dp/Triangle.java)|[Link](https://leetcode.com/problems/triangle)|
 |[UncrossedLines](dp/UncrossedLines.java)|[Link](https://leetcode.com/problems/uncrossed-lines)|
 |[UniquePaths2](dp/UniquePaths2.java)|[Link](https://leetcode.com/problems/unique-paths-ii)|
-|[WordBreak](dp/WordBreak.java)|-|
-|[WordBreak2](dp/WordBreak2.java)|[Link](https://leetcode.com/problems/word-break-ii)|
-|Total|50|
+|Total|51|
 
 
 #### Graph
@@ -419,6 +420,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ConvertTheTemperature](math/ConvertTheTemperature.java)|[Link](https://leetcode.com/problems/convert-the-temperature/)|
 |[CountOddNumberInIntervalRange](math/CountOddNumberInIntervalRange.java)|[Link](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|
 |[CountTotalNumberOfColoredCells](math/CountTotalNumberOfColoredCells.java)|[Link](https://leetcode.com/problems/count-total-number-of-colored-cells)|
+|[DetermineTheMinimumSumOfKAvoidingArray](math/DetermineTheMinimumSumOfKAvoidingArray.java)|[Link](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)|
 |[DistintPrimeFactorsOfProductOfArray](math/DistintPrimeFactorsOfProductOfArray.java)|[Link](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array)|
 |[Divide2Nums](math/Divide2Nums.java)|-|
 |[EqualRationalNumbers](math/EqualRationalNumbers.java)|[Link](https://leetcode.com/problems/equal-rational-numbers/)|
@@ -454,6 +456,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[PrimeInDiagonal](math/PrimeInDiagonal.java)|[Link](https://leetcode.com/problems/prime-in-diagonal/)|
 |[PunishmentOfAnInteger](math/PunishmentOfAnInteger.java)|[Link](https://leetcode.com/problems/find-the-punishment-number-of-an-integer)|
 |[RangeAddition2](math/RangeAddition2.java)|[Link](https://leetcode.com/problems/range-addition-ii)|
+|[SellDiminishingValueOfColoredBalls](math/SellDiminishingValueOfColoredBalls.java)|[Link](https://leetcode.com/problems/sell-diminishing-valued-colored-balls)|
 |[SequentialDigits](math/SequentialDigits.java)|[Link](https://leetcode.com/problems/sequential-digits)|
 |[SignOfTheProductOfAnArray](math/SignOfTheProductOfAnArray.java)|[Link](https://leetcode.com/problems/sign-of-the-product-of-an-array)|
 |[SimplifiedFractions](math/SimplifiedFractions.java)|[Link](https://leetcode.com/problems/simplified-fractions/)|
@@ -467,7 +470,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ValidBoomerang](math/ValidBoomerang.java)|[Link](https://leetcode.com/problems/valid-boomerang)|
 |[ValidSquare](math/ValidSquare.java)|[Link](https://leetcode.com/problems/valid-square)|
 |[WidestVerticalAreaBetween2Points](math/WidestVerticalAreaBetween2Points.java)|[Link](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)|
-|Total|63|
+|Total|65|
 
 
 #### Numbers
@@ -629,9 +632,10 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ValidParenthesis](strings/ValidParenthesis.java)|[Link](https://leetcode.com/problems/valid-parentheses/)|
 |[VerifyingAlienDictionary](strings/VerifyingAlienDictionary.java)|[Link](https://leetcode.com/problems/verifying-an-alien-dictionary)|
 |[WordBreak](strings/WordBreak.java)|[Link](https://leetcode.com/problems/word-break)|
+|[WordBreak2](strings/WordBreak2.java)|[Link](https://leetcode.com/problems/word-break-ii)|
 |[WordPattern](strings/WordPattern.java)|[Link](https://leetcode.com/problems/word-pattern/)|
 |[WordSubsets](strings/WordSubsets.java)|[Link](https://leetcode.com/problems/word-subsets/)|
-|Total|92|
+|Total|93|
 
 
 #### Trees
@@ -728,4 +732,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 597 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 601 leetcode problems. Let me know if any solution can be improved.
