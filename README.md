@@ -16,6 +16,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ArrayPairSum](arrays/ArrayPairSum.java)|[Link](https://leetcode.com/problems/array-partition-i/)|
 |[ArrayTo2DArrayWithConditions](arrays/ArrayTo2DArrayWithConditions.java)|[Link](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)|
 |[AsFarFromLandAsPossible](arrays/AsFarFromLandAsPossible.java)|[Link](https://leetcode.com/problems/as-far-from-land-as-possible/)|
+|[AssignCookies](arrays/AssignCookies.java)|[Link](https://leetcode.com/problems/assign-cookies)|
 |[AverageWaitingTime](arrays/AverageWaitingTime.java)|[Link](https://leetcode.com/problems/average-waiting-time)|
 |[BagOfTokens](arrays/BagOfTokens.java)|[Link](https://leetcode.com/problems/bag-of-tokens)|
 |[BestTimeToBuyOrSellStocks2](arrays/BestTimeToBuyOrSellStocks2.java)|[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|
@@ -31,6 +32,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[ContainsDuplicates](arrays/ContainsDuplicates.java)|-|
 |[ContainsNearbyDuplicates](arrays/ContainsNearbyDuplicates.java)|[Link](https://leetcode.com/problems/contains-duplicate-ii)|
 |[ContinuousSubarraySum](arrays/ContinuousSubarraySum.java)|[Link](https://leetcode.com/problems/continuous-subarray-sum)|
+|[ConvertTo2DArrayWithConditions](arrays/ConvertTo2DArrayWithConditions.java)|[Link](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions)|
 |[CorporateFlightBookings](arrays/CorporateFlightBookings.java)|[Link](https://leetcode.com/problems/corporate-flight-bookings)|
 |[CountDistinctIntegersAfterReverseOperations](arrays/CountDistinctIntegersAfterReverseOperations.java)|[Link](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations)|
 |[CountNumberOfFairPairs](arrays/CountNumberOfFairPairs.java)|[Link](https://leetcode.com/problems/count-the-number-of-fair-pairs)|
@@ -115,6 +117,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[MinimumRoundsToCompleteAllTasks](arrays/MinimumRoundsToCompleteAllTasks.java)|[Link](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)|
 |[MinimumSizeSubarraySum](arrays/MinimumSizeSubarraySum.java)|-|
 |[MinimumTimeToCompleteTrips](arrays/MinimumTimeToCompleteTrips.java)|[Link](https://leetcode.com/problems/minimum-time-to-complete-trips/)|
+|[MinimumWindowSubstring](arrays/MinimumWindowSubstring.java)|[Link](https://leetcode.com/problems/minimum-window-substring)|
 |[MinMovesToMakeArrayZigzag](arrays/MinMovesToMakeArrayZigzag.java)|[Link](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|
 |[MinOperationsToMakeArrayIncreasing](arrays/MinOperationsToMakeArrayIncreasing.java)|[Link](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing)|
 |[MinOperationsToMoveAllBallsToEachBox](arrays/MinOperationsToMoveAllBallsToEachBox.java)|[Link](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box)|
@@ -127,10 +130,10 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[NonDecreasingSubsequences](arrays/NonDecreasingSubsequences.java)|[Link](https://leetcode.com/problems/non-decreasing-subsequences/)|
 |[NumberOfAdjacentElementsWithSameColor](arrays/NumberOfAdjacentElementsWithSameColor.java)|[Link](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/)|
 |[NumberOfArithmeticTriplets](arrays/NumberOfArithmeticTriplets.java)|[Link](https://leetcode.com/problems/number-of-arithmetic-triplets)|
-|[NumberOfBeams](arrays/NumberOfBeams.java)|[Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|
 |[NumberOfFlowersInFullBloom](arrays/NumberOfFlowersInFullBloom.java)|[Link](https://leetcode.com/problems/number-of-flowers-in-full-bloom)|
 |[NumberOfGoodPairs](arrays/NumberOfGoodPairs.java)|[Link](https://leetcode.com/problems/number-of-good-pairs)|
 |[NumberOfIncreasingPathsInAGrid](arrays/NumberOfIncreasingPathsInAGrid.java)|[Link](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid)|
+|[NumberOfLaserBeams](arrays/NumberOfLaserBeams.java)|[Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank)|
 |[NumberOfSubsequencesThatSatisyTheGivenSumCondition](arrays/NumberOfSubsequencesThatSatisyTheGivenSumCondition.java)|[Link](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition)|
 |[NumberOfZeroFilledSubArrays](arrays/NumberOfZeroFilledSubArrays.java)|[Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|
 |[NumbersWithSameConsecutiveDifferences](arrays/NumbersWithSameConsecutiveDifferences.java)|[Link](https://leetcode.com/problems/numbers-with-same-consecutive-differences)|
@@ -203,7 +206,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UserActivityMinutes](arrays/UserActivityMinutes.java)|[Link](https://leetcode.com/problems/finding-the-users-active-minutes)|
 |[WaysToMakeFairArray](arrays/WaysToMakeFairArray.java)|[Link](https://leetcode.com/problems/ways-to-make-a-fair-array)|
 |[WinnerOfAnArrayGame](arrays/WinnerOfAnArrayGame.java)|[Link](https://leetcode.com/problems/find-the-winner-of-an-array-game)|
-|Total|196|
+|Total|199|
 
 
 #### Backtracking
@@ -305,6 +308,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[MinSteps](dp/MinSteps.java)|[Link](https://leetcode.com/problems/2-keys-keyboard/)|
 |[NumberOfArithmeticSlices](dp/NumberOfArithmeticSlices.java)|[Link](https://leetcode.com/problems/arithmetic-slices/)|
 |[NumberOfWaysToFormATargetStringGivenADictionary](dp/NumberOfWaysToFormATargetStringGivenADictionary.java)|[Link](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary)|
+|[NumberOfWaysToStayInSamePlaceAfterSomeSteps](dp/NumberOfWaysToStayInSamePlaceAfterSomeSteps.java)|[Link](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|
 |[NumOfTeams](dp/NumOfTeams.java)|[Link](https://leetcode.com/problems/count-number-of-teams)|
 |[PartitionEqualSubsetSum](dp/PartitionEqualSubsetSum.java)|[Link](https://leetcode.com/problems/partition-equal-subset-sum)|
 |[PathsInMatrixWhoseSumIsDivisibleByK](dp/PathsInMatrixWhoseSumIsDivisibleByK.java)|[Link](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)|
@@ -316,8 +320,9 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[TargetSum](dp/TargetSum.java)|[Link](https://leetcode.com/problems/target-sum/)|
 |[Triangle](dp/Triangle.java)|[Link](https://leetcode.com/problems/triangle)|
 |[UncrossedLines](dp/UncrossedLines.java)|[Link](https://leetcode.com/problems/uncrossed-lines)|
+|[UniquePaths](dp/UniquePaths.java)|[Link](https://leetcode.com/problems/unique-paths/)|
 |[UniquePaths2](dp/UniquePaths2.java)|[Link](https://leetcode.com/problems/unique-paths-ii)|
-|Total|57|
+|Total|59|
 
 
 #### Graph
@@ -776,4 +781,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 645 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 650 leetcode problems. Let me know if any solution can be improved.
