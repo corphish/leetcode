@@ -289,6 +289,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[JumpGame](dp/JumpGame.java)|-|
 |[JumpGame2](dp/JumpGame2.java)|-|
 |[LargestSumOfAverages](dp/LargestSumOfAverages.java)|[Link](https://leetcode.com/problems/largest-sum-of-averages)|
+|[LongestCommonSubequence](dp/LongestCommonSubequence.java)|[Link](https://leetcode.com/problems/longest-common-subsequence)|
 |[LongestIncreasingSubsequence](dp/LongestIncreasingSubsequence.java)|[Link](https://leetcode.com/problems/longest-increasing-subsequence)|
 |[LongestPalindromicSubsequence](dp/LongestPalindromicSubsequence.java)|[Link](https://leetcode.com/problems/longest-palindromic-subsequence)|
 |[LongestStringChain](dp/LongestStringChain.java)|[Link](https://leetcode.com/problems/longest-string-chain)|
@@ -322,7 +323,7 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 |[UncrossedLines](dp/UncrossedLines.java)|[Link](https://leetcode.com/problems/uncrossed-lines)|
 |[UniquePaths](dp/UniquePaths.java)|[Link](https://leetcode.com/problems/unique-paths/)|
 |[UniquePaths2](dp/UniquePaths2.java)|[Link](https://leetcode.com/problems/unique-paths-ii)|
-|Total|59|
+|Total|60|
 
 
 #### Graph
@@ -781,4 +782,4 @@ Solutions are grouped by its type and in most cases has a leetcode link associat
 
 
 ## Summary
-Thank you for checking out my solutions to these 650 leetcode problems. Let me know if any solution can be improved.
+Thank you for checking out my solutions to these 651 leetcode problems. Let me know if any solution can be improved.
