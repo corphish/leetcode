@@ -30,9 +30,6 @@ class Solution {
         for (int moves = 1; moves <= maxMove; moves++) {
             for (int x = 1; x <= m; x++) {
                 for (int y = 1; y <= n; y++) {
-                    int i = x - 1;
-                    int j = y - 1;
-
                     dp[moves][x][y] = 
                         ((dp[moves - 1][x + 1][y] + 
                         dp[moves - 1][x - 1][y]) % mod) + 
