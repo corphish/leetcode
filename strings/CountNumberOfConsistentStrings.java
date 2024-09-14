@@ -1,16 +1,22 @@
 // https://leetcode.com/problems/count-the-number-of-consistent-strings/
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
+        int[] freq = new int[26];
+        for (char c: allowed.toCharArray()) freq[c - 'a'] += 1;
+
         int count = 0;
         for (String word: words) {
-            boolean add = true;
+            boolean flag = true;
             for (char c: word.toCharArray()) {
-                if (!allowed.contains("" + c)) {
-                    add = false;
+                if (freq[c - 'a'] == 0) {
+                    flag = false;
+                    break;
                 }
             }
 
-            if (add) count += 1;
+            if (flag) {
+                count += 1;
+            }
         }
 
         return count;
